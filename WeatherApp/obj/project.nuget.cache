@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVCKe48qjdK8yj3C5caXV7p+CUFmtvsc6Q1+To0CdgUuwgaYpA6wXxoUxpWzeak5wkcXZWJ59kuWFf69wDZcCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEBBARI\\Documents\\Visual Studio 2019\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEBBARI\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
